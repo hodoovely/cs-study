@@ -35,7 +35,7 @@ header 와 body 는 http header 와 http body 로 나눌 수도 있고, http bod
 브라우저는 form-data 형식의 submit 으로 보내고 서버에서는 json 형태로 보내는 식의 분리보다는 json 으로 보내든, 둘 다 form-data 형식으로 보내든 하나로 통일한다.
 다른 말로 표현하자면 URI 가 플랫폼 중립적이어야 한다.
 
-/
+<br/>
 
 #### REST
 
